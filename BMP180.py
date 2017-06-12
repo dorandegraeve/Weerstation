@@ -3,7 +3,7 @@
 # https://www.raspberrytips.nl
 # Gebaseerd op een script gemaakt door Matt Hawkins
 
-import smbus
+#import smbus
 import time
 from ctypes import c_short
 
